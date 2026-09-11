@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours français sur la provenance, la fraîcheur et l interprétation défensive des statistiques Hyperliquid est disponible dans [`docs/fr/`](docs/fr/).
+
 # Hyperliquid Stats
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
