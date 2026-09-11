@@ -7,3 +7,7 @@
 5. [Limites et verification](05-limites-et-verification.md)
 
 Guide de lecture des statistiques Hyperliquid, sans conseil financier.
+
+6. [Traçabilité source-affichage](06-tracabilite-source-affichage.md)
+7. [Précision et grands nombres](07-precision-et-grands-nombres.md)
+8. [États dégradés](08-etats-degrades.md)
