@@ -1,13 +1,13 @@
-# Limites et verification
+# Limites et vérification
 
-Ce depot est une interface de statistiques et non une specification Hyperliquid ou un oracle financier.
-Son README reste principalement celui du squelette Next.js et documente peu la provenance metier.
-Les calculs doivent etre relus dans helpers, hooks, contexts et composants consommateurs.
-Les nombres affiches peuvent dependre de caches, arrondis et disponibilite de services externes.
-Ce parcours repose uniquement sur la lecture de ces modules et des constantes du depot.
-Aucune installation, compilation, appel API, synchronisation ou execution nouvelle n a ete effectuee.
-Aucun chiffre ni conseil de trading n est revendique ici.
-Pour verifier, comparer chaque metrique aux donnees officielles et dater explicitement l observation.
+Ce dépôt est une interface de statistiques et non une spécification Hyperliquid ou un oracle financier.
+Son README reste principalement celui du squelette Next.js et documente peu la provenance métier.
+Les calculs doivent être relus dans helpers, hooks, contexts et composants consommateurs.
+Les nombres affichés peuvent dépendre de caches, arrondis et disponibilité de services externes.
+Ce parcours repose uniquement sur la lecture de ces modules et des constantes du dépôt.
+Aucune installation, compilation, appel API, synchronisation ou exécution nouvelle n’a été effectuée.
+Aucun chiffre ni conseil de trading n’est revendiqué ici.
+Pour vérifier, comparer chaque métrique aux données officielles et dater explicitement l’observation.
 
 
 Suite : [06 — Traçabilité source-affichage](06-tracabilite-source-affichage.md).
